@@ -149,8 +149,11 @@ Tools/unicode/data/
 /python-config
 /python-config.py
 /python.bat
-/python-gdb.py
-/python.exe-gdb.py
+python-config.sh
+python.bat
+python-config.py
+python-config
+python.exe-gdb.py
 /reflog.txt
 /coverage/
 /externals/
@@ -178,3 +181,4 @@ CLAUDE.local.md
 #### main branch only stuff below this line, things to backport go above. ####
 # main branch only: ABI files are not checked/maintained.
 Doc/data/python*.abi
+.worktrees/
