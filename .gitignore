@@ -149,11 +149,8 @@ Tools/unicode/data/
 /python-config
 /python-config.py
 /python.bat
-python-config.sh
-python.bat
-python-config.py
-python-config
-python.exe-gdb.py
+/python-gdb.py
+/python.exe-gdb.py
 /reflog.txt
 /coverage/
 /externals/
